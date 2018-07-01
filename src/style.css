@@ -1,0 +1,19 @@
+body{
+background-color: lightblue;
+}
+
+.awesome {
+  color: red;
+}
+
+#main_title {
+  color: green;
+}
+
+#h2_title {
+  color: yellow;
+}
+
+#h3_title {
+ color: #219180;
+}
